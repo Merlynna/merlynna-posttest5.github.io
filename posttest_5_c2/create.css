@@ -1,0 +1,39 @@
+body {
+     background-color: deeppink;
+     color: wheat;
+}
+
+h1 {
+     text-align: center;
+     color: pink;
+}
+
+hr {
+     width: 70%;
+     color: wheat;
+}
+
+h4 {
+     font-family: "Century Gothic";
+     color: black;
+     text-align: center;
+}
+
+table th {
+     color: honeydew;
+     font-family: "Century Gothic";
+     font-size: 12px;
+}
+
+table td {
+     color: black;
+     font-family: "Century Gothic";
+     font-size: 12px;
+}
+
+button {
+     font-family: "Century Gothic";
+     margin-left: 555px;
+     background-color: deepskyblue;
+     color: white;
+}

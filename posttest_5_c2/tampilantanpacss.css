@@ -1,0 +1,41 @@
+body {
+     background-color: deeppink;
+}
+
+p {
+     font-family: "Century Gothic";
+     font-size: 15px;
+     color: black;
+}
+
+table {
+     width: 70%;
+     background-color:  deeppink;
+     font-family: "Century Gothic";
+     font-size: 12px;
+     color: black;
+     text-align: center;
+     border-bottom: 1px solid black;
+}
+
+table th {
+     background-color: pink;
+}
+
+table td {
+     background-color: white;
+}
+
+button {
+     background-color: hotpink;
+     color: black;
+     font-family: "Century Gothic";
+     font-size: 11px;
+     text-align: center;
+}
+
+#submit {
+     margin-left: 575px;
+     background-color: palegreen;
+     border: 2px solid deepskyblue;
+}
